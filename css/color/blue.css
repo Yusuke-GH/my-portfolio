@@ -1,0 +1,79 @@
+.icon-custom {
+  color: #3399ff !important;
+}
+
+.text-custom,
+.custom-nav .navbar-nav li a:hover,
+.custom-nav .navbar-nav li a:active,
+.custom-nav .navbar-nav li.active a,
+.custom-nav.stickyadd .navbar-nav li a:hover,
+.custom-nav.stickyadd .navbar-nav li a:active,
+.custom-nav.stickyadd .navbar-nav li.active a,
+.about-social li a:hover {
+    color: #37b8df !important;
+    /* extracted color */
+    /* color: #004097 !important; */
+    /* color: #3399ff !important; */
+    font-weight: 500;
+}
+
+
+.custom-nav .navbar-nav li .changed-color:hover,
+.custom-nav .navbar-nav li .changed-color:active,
+.custom-nav .navbar-nav li.active .changed-color,
+.custom-nav.stickyadd .navbar-nav li .changed-color:hover,
+.custom-nav.stickyadd .navbar-nav li .changed-color:active,
+.custom-nav.stickyadd .navbar-nav li.active .changed-color,
+.about-social li .changed-color:hover {
+    /* color: #37b8df !important; */
+    /* extracted color */
+    /* color: #004097 !important; */
+    /* color: #0075C2 !important; */
+    color: #0068B7 !important;
+    font-weight: 500;
+}
+
+
+
+
+
+/* .btn-custom, */
+.about-social li a:hover {
+    border-color: #37b8df;
+    /* extracted-color */
+    /* border-color: #004097; */
+    /* border-color: #3399ff; */
+}
+
+.form-kerri .form-control:focus {
+  border-color: rgba(53, 155, 255, .52);
+}
+
+.btn-custom,
+.back_top,
+.services-boxes .services-title-border,
+.owl-theme .owl-controls .owl-page span,
+.work_menu a.active,
+.work_menu a:hover {
+    /* background-color: #37b8df; */
+    /* extracted color */
+    /* background-color: #004097; */
+    /* background-color: #3399ff; */
+    background-color: #0068b7;
+}
+
+.btn-custom:hover,
+.btn-custom:focus,
+.btn-custom:active,
+.btn-custom.active,
+.btn-custom.focus,
+.btn-custom:active,
+.btn-custom:focus,
+.btn-custom:hover,
+.open > .dropdown-toggle.btn-custom {
+    background-color: #31a3c6;
+    border-color: #31a3c6;
+    /* extracted color */
+    /* background-color: #004097; */
+    /* border-color: #004097; */
+}
